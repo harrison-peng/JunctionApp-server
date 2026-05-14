@@ -57,7 +57,7 @@ s3transfer==0.1.13
 six==1.11.0
 Twisted==26.4.0rc2
 txaio==2.8.2
-urllib3==2.6.3
+urllib3==2.7.0
 vine==1.1.4
 wcwidth==0.1.7
 websocket-client==0.47.0
